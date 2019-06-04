@@ -80,6 +80,7 @@ Fully:用例的所有步骤和变化都有详细的描述。
 3.如何利用用例图定位创新思路（业务创新、或技术创新、或商业模式创新）在系统中的作用  
 &emsp;使用不同颜色标记。  
 4.使用SCRUM方法，选择一个用例图，编制某定旅馆开发的需求（backlog）开发计划表：  
+
 | ID | name | Est | Iter | Imp | how to demo |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 1  | find hotel  | 2  | 1  | 5  | search with hotel name |
